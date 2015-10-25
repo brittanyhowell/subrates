@@ -14,7 +14,6 @@ import (
 	"math/rand"
 	"os"
 	"path/filepath"
-	//	"strings"
 
 	"github.com/biogo/biogo/alphabet"
 	"github.com/biogo/biogo/io/seqio"
