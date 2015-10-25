@@ -12,8 +12,6 @@ import (
 	"github.com/biogo/biogo/io/seqio/fasta"
 	"github.com/biogo/biogo/seq"
 	"github.com/biogo/biogo/seq/linear"
-
-	//	"strings"
 )
 
 func subs(consensus, s seq.Sequence) (int, int) {
@@ -102,5 +100,3 @@ func main() {
 	}
 
 }
-
-//	}
